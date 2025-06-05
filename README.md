@@ -46,5 +46,6 @@ Result: The various types of Prompts are executed successfully.
 
 
 
-# Result: Thus the Prompts were exected succcessfully .
+# Result
+Thus the Prompts were exected succcessfully .
 
